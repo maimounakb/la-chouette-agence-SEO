@@ -683,6 +683,11 @@ p {
     font-size: 11px;
 }
 
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
